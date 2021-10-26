@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Business.h
+iostream
+-
+string
+-
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.h
+Restaurant.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
+Business.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Business.h
+string
+-
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/main.cpp
+iostream
+-
+Business.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Business.h
+Restaurant.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
+CoffeeShop.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.h
+
