@@ -104,6 +104,12 @@
 		<Unit filename="C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h">
 			<Option target="CSC109101BUSINESS"/>
 		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Stand.cpp">
+			<Option target="CSC109101BUSINESS"/>
+		</Unit>
+		<Unit filename="C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Stand.h">
+			<Option target="CSC109101BUSINESS"/>
+		</Unit>
 		<Unit filename="C:/Users/hloi/CLionProjects/CSC109101BUSINESS/main.cpp">
 			<Option target="CSC109101BUSINESS"/>
 		</Unit>

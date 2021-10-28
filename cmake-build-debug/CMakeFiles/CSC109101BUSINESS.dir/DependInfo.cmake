@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.cpp" "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/cmake-build-debug/CMakeFiles/CSC109101BUSINESS.dir/CoffeeShop.cpp.obj"
   "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/DeptStore.cpp" "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/cmake-build-debug/CMakeFiles/CSC109101BUSINESS.dir/DeptStore.cpp.obj"
   "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.cpp" "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/cmake-build-debug/CMakeFiles/CSC109101BUSINESS.dir/Restaurant.cpp.obj"
+  "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Stand.cpp" "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/cmake-build-debug/CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.obj"
   "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/main.cpp" "C:/Users/hloi/CLionProjects/CSC109101BUSINESS/cmake-build-debug/CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

@@ -249,6 +249,33 @@ Restaurant.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSC109101BUSINESS.dir\build.make CMakeFiles/CSC109101BUSINESS.dir/Restaurant.cpp.s
 .PHONY : Restaurant.cpp.s
 
+Stand.obj: Stand.cpp.obj
+
+.PHONY : Stand.obj
+
+# target to build an object file
+Stand.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSC109101BUSINESS.dir\build.make CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.obj
+.PHONY : Stand.cpp.obj
+
+Stand.i: Stand.cpp.i
+
+.PHONY : Stand.i
+
+# target to preprocess a source file
+Stand.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSC109101BUSINESS.dir\build.make CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.i
+.PHONY : Stand.cpp.i
+
+Stand.s: Stand.cpp.s
+
+.PHONY : Stand.s
+
+# target to generate assembly for a file
+Stand.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSC109101BUSINESS.dir\build.make CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.s
+.PHONY : Stand.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -297,6 +324,9 @@ help:
 	@echo ... Restaurant.obj
 	@echo ... Restaurant.i
 	@echo ... Restaurant.s
+	@echo ... Stand.obj
+	@echo ... Stand.i
+	@echo ... Stand.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
