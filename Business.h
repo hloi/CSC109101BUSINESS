@@ -30,11 +30,11 @@ public:
         address = busAddress;
     }
 
-    string GetDescription() const {
+    virtual string GetDescription() const {
         return name + " -- " + address;
     }
 
-    void Print() {
+    virtual void Print() {
         cout << "Name: " << name << endl;
         cout << "Adress: " << address << endl;
     }

@@ -9,12 +9,21 @@ CMakeFiles/CSC109101BUSINESS.dir/CoffeeShop.cpp.obj: ../CoffeeShop.cpp
 CMakeFiles/CSC109101BUSINESS.dir/CoffeeShop.cpp.obj: ../CoffeeShop.h
 CMakeFiles/CSC109101BUSINESS.dir/CoffeeShop.cpp.obj: ../Restaurant.h
 
+CMakeFiles/CSC109101BUSINESS.dir/DeptStore.cpp.obj: ../Business.h
+CMakeFiles/CSC109101BUSINESS.dir/DeptStore.cpp.obj: ../DeptStore.cpp
+CMakeFiles/CSC109101BUSINESS.dir/DeptStore.cpp.obj: ../DeptStore.h
+
 CMakeFiles/CSC109101BUSINESS.dir/Restaurant.cpp.obj: ../Business.h
 CMakeFiles/CSC109101BUSINESS.dir/Restaurant.cpp.obj: ../Restaurant.cpp
 CMakeFiles/CSC109101BUSINESS.dir/Restaurant.cpp.obj: ../Restaurant.h
 
+CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.obj: ../Business.h
+CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.obj: ../Stand.cpp
+CMakeFiles/CSC109101BUSINESS.dir/Stand.cpp.obj: ../Stand.h
+
 CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj: ../Business.h
 CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj: ../CoffeeShop.h
 CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj: ../Restaurant.h
+CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj: ../Stand.h
 CMakeFiles/CSC109101BUSINESS.dir/main.cpp.obj: ../main.cpp
 

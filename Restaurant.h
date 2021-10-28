@@ -14,8 +14,9 @@ class Restaurant : public Business {
 public:
 
 
-    Restaurant(string name, string address, int rating, int seating) : Business(name, address){
-
+    Restaurant(string name, string address, int rating=0, int seating=0) : Business(name, address) {
+        this->seating = seating;
+        this->rating = rating;
     }
 
     void SetRating(int userRating) {
@@ -38,6 +39,7 @@ public:
 
     void Print() {
         Business::Print();
+        cout << "Seating: " << seating << endl;
         cout << "Rating: " << rating << endl;
     }
 protected:

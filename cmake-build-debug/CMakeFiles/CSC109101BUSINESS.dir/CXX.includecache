@@ -12,7 +12,15 @@ iostream
 string
 -
 
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.cpp
+CoffeeShop.h
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.h
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.h
+Restaurant.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.cpp
 Restaurant.h
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
 
@@ -21,6 +29,14 @@ Business.h
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Business.h
 string
 -
+
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Stand.h
+string
+-
+iostream
+-
+Business.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Business.h
 
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/main.cpp
 iostream
@@ -31,4 +47,8 @@ Restaurant.h
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Restaurant.h
 CoffeeShop.h
 C:/Users/hloi/CLionProjects/CSC109101BUSINESS/CoffeeShop.h
+Stand.h
+C:/Users/hloi/CLionProjects/CSC109101BUSINESS/Stand.h
+vector
+-
 
